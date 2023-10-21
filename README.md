@@ -1,4 +1,4 @@
-# Project made to help the MODs installation in The Sims 4
+# Image Tools v.1
 
 This repository contains several operators that perform useful functions such as coverting files, resizing, deleting background, among others.
 
